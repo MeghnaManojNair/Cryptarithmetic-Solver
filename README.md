@@ -1,1 +1,2 @@
 # Cryptarithmetic-Solver
+This project involves creating a program to solve Cryptarithmetic problems, where letters represent unique digits in an arithmetic equation. The program uses the Backtracking Algorithm for Constraint Satisfaction Problems (CSPs) to find valid digit substitutions, ensuring no leading zeros and distinct digits for each letter. It reads input from a text file with capital letters and outputs the corresponding digits, ensuring the arithmetic sum is correct. The solution is implemented in Python, C++, or Java, and includes test cases for verification.
